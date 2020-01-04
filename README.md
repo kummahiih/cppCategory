@@ -1,0 +1,2 @@
+# cppCategory
+Category equation library
